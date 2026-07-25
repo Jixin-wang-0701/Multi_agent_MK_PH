@@ -1,0 +1,23 @@
+{
+  "agent_key": "generation_2",
+  "prompt_key": "generation_runtime",
+  "configured_model": "deepseek-v4-pro",
+  "response_model": "deepseek-v4-pro",
+  "request_model": "deepseek-v4-pro",
+  "thinking": "enabled",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 13409,
+    "completion_tokens": 12842,
+    "total_tokens": 26251,
+    "prompt_tokens_details": {
+      "cached_tokens": 768
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 4520
+    },
+    "prompt_cache_hit_tokens": 768,
+    "prompt_cache_miss_tokens": 12641
+  },
+  "content_chars": 34754
+}

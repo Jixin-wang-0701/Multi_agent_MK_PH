@@ -1,0 +1,23 @@
+{
+  "agent_key": "generation_metabolic",
+  "prompt_key": "generation_runtime",
+  "configured_model": "deepseek-v4-pro",
+  "response_model": "deepseek-v4-pro",
+  "request_model": "deepseek-v4-pro",
+  "thinking": "enabled",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 13762,
+    "completion_tokens": 7508,
+    "total_tokens": 21270,
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1587
+    },
+    "prompt_cache_hit_tokens": 896,
+    "prompt_cache_miss_tokens": 12866
+  },
+  "content_chars": 24882
+}

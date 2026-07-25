@@ -1,0 +1,23 @@
+{
+  "agent_key": "evolution",
+  "prompt_key": "evolution",
+  "configured_model": "deepseek-v4-pro",
+  "response_model": "deepseek-v4-pro",
+  "request_model": "deepseek-v4-pro",
+  "thinking": "enabled",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 38990,
+    "completion_tokens": 6920,
+    "total_tokens": 45910,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1544
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 38990
+  },
+  "content_chars": 23176
+}

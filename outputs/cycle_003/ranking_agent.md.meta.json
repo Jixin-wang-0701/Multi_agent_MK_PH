@@ -1,0 +1,23 @@
+{
+  "agent_key": "ranking",
+  "prompt_key": "ranking",
+  "configured_model": "deepseek-v4-pro",
+  "response_model": "deepseek-v4-pro",
+  "request_model": "deepseek-v4-pro",
+  "thinking": "enabled",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 41375,
+    "completion_tokens": 4726,
+    "total_tokens": 46101,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2595
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 41375
+  },
+  "content_chars": 8378
+}

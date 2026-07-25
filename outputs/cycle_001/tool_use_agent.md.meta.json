@@ -1,0 +1,23 @@
+{
+  "agent_key": "tool_use",
+  "prompt_key": "tool_use",
+  "configured_model": "deepseek-v4-pro",
+  "response_model": "deepseek-v4-pro",
+  "request_model": "deepseek-v4-pro",
+  "thinking": "enabled",
+  "finish_reason": "length",
+  "usage": {
+    "prompt_tokens": 37844,
+    "completion_tokens": 4096,
+    "total_tokens": 41940,
+    "prompt_tokens_details": {
+      "cached_tokens": 640
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1463
+    },
+    "prompt_cache_hit_tokens": 640,
+    "prompt_cache_miss_tokens": 37204
+  },
+  "content_chars": 10380
+}

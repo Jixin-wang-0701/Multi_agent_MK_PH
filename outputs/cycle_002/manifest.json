@@ -1,0 +1,23 @@
+{
+  "cycle_id": 2,
+  "started": "2026-07-13T13:58:53",
+  "resumed_at": "2026-07-13T14:01:19",
+  "model": "deepseek-v4-pro",
+  "dry_run": false,
+  "generation_agents": 3,
+  "reflection_agents": 3,
+  "parallelism": 1,
+  "data_context": "C:\\Users\\18553\\Desktop\\Phd_S4\\jiawei_framework\\outputs\\data_context.md",
+  "metabolic_context": "C:\\Users\\18553\\Desktop\\Phd_S4\\jiawei_framework\\outputs\\metabolic_context.md",
+  "fetch_kegg": true,
+  "fetch_pubmed": true,
+  "fetch_public_datasets": false,
+  "analyze_public_datasets": false,
+  "reuse_existing_public_analyses": true,
+  "resume_existing": true,
+  "max_public_datasets": 8,
+  "max_public_analyses": 3,
+  "max_public_download_mb": 1024,
+  "public_dataset_context": "C:\\Users\\18553\\Desktop\\Phd_S4\\jiawei_framework\\outputs\\public_dataset_context.md",
+  "public_dataset_analysis_context": "C:\\Users\\18553\\Desktop\\Phd_S4\\jiawei_framework\\outputs\\public_dataset_analysis_context.md"
+}

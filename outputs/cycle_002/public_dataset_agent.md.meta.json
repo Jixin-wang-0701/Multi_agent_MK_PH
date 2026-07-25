@@ -1,0 +1,23 @@
+{
+  "agent_key": "public_dataset",
+  "prompt_key": "public_dataset",
+  "configured_model": "deepseek-v4-pro",
+  "response_model": "deepseek-v4-pro",
+  "request_model": "deepseek-v4-pro",
+  "thinking": "enabled",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 18116,
+    "completion_tokens": 3370,
+    "total_tokens": 21486,
+    "prompt_tokens_details": {
+      "cached_tokens": 18048
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 2020
+    },
+    "prompt_cache_hit_tokens": 18048,
+    "prompt_cache_miss_tokens": 68
+  },
+  "content_chars": 6159
+}

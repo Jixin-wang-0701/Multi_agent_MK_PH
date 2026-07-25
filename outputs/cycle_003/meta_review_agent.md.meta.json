@@ -1,0 +1,23 @@
+{
+  "agent_key": "meta_review",
+  "prompt_key": "meta_review",
+  "configured_model": "deepseek-v4-pro",
+  "response_model": "deepseek-v4-pro",
+  "request_model": "deepseek-v4-pro",
+  "thinking": "enabled",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 32375,
+    "completion_tokens": 3484,
+    "total_tokens": 35859,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 578
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 32375
+  },
+  "content_chars": 12807
+}

@@ -1,0 +1,23 @@
+{
+  "agent_key": "reflection_2",
+  "prompt_key": "reflection",
+  "configured_model": "deepseek-v4-pro",
+  "response_model": "deepseek-v4-pro",
+  "request_model": "deepseek-v4-pro",
+  "thinking": "enabled",
+  "finish_reason": "length",
+  "usage": {
+    "prompt_tokens": 24739,
+    "completion_tokens": 4096,
+    "total_tokens": 28835,
+    "prompt_tokens_details": {
+      "cached_tokens": 640
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 890
+    },
+    "prompt_cache_hit_tokens": 640,
+    "prompt_cache_miss_tokens": 24099
+  },
+  "content_chars": 13996
+}

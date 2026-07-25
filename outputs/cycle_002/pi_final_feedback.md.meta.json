@@ -1,0 +1,23 @@
+{
+  "agent_key": "pi_final",
+  "prompt_key": "pi",
+  "configured_model": "deepseek-v4-pro",
+  "response_model": "deepseek-v4-pro",
+  "request_model": "deepseek-v4-pro",
+  "thinking": "enabled",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 60405,
+    "completion_tokens": 5396,
+    "total_tokens": 65801,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 857
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 60405
+  },
+  "content_chars": 21722
+}

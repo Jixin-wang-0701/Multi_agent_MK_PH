@@ -1,0 +1,23 @@
+{
+  "agent_key": "proximity",
+  "prompt_key": "proximity",
+  "configured_model": "deepseek-v4-pro",
+  "response_model": "deepseek-v4-pro",
+  "request_model": "deepseek-v4-pro",
+  "thinking": "enabled",
+  "finish_reason": "length",
+  "usage": {
+    "prompt_tokens": 22383,
+    "completion_tokens": 4096,
+    "total_tokens": 26479,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 3959
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 22383
+  },
+  "content_chars": 574
+}
