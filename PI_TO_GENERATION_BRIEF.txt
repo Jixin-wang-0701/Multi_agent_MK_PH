@@ -1,0 +1,43 @@
+PI_TO_GENERATION_BRIEF
+
+Cycle ID:
+[Cycle number]
+
+Central question:
+[Specific question for this round]
+
+Biological focus:
+[Cell type, pathway, process, or mechanism category]
+
+Data sources to prioritize:
+[User data / public data / literature / metabolomics / spatial data]
+
+Public dataset search tasks:
+[List 3-8 repository search queries. Include disease/perturbation, tissue, cell types, and modalities.
+Do not limit to scRNA-seq; include bulk RNA-seq, single-cell/single-nucleus RNA-seq, spatial
+transcriptomics, proteomics, metabolomics, or microarray when relevant.]
+
+Required hypothesis categories:
+[List categories]
+
+Must include:
+- MK-specific mechanism
+- hypoxia-dependent trigger
+- defined mediator class, pathway class, or metabolic axis
+- candidate downstream axis rather than a forced final bridge
+- broad vascular remodeling phenotype
+- direction-level reasoning summary linking data anchor, biological interpretation, pathway logic, downstream axis, remodeling phenotype, and key uncertainty
+- testable prediction
+- falsification criterion
+
+Must avoid:
+[List exclusion criteria]
+
+Feedback from previous cycle:
+- Keep:
+- Remove:
+- Revise:
+- Newly generate:
+
+Expected output:
+[Number and structure of hypotheses]

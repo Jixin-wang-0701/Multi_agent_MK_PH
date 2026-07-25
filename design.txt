@@ -1,0 +1,17 @@
+PI Agent defines research brief
+↓
+Generation Agents generate hypotheses
+↓
+Proximity Check clusters similar hypotheses
+↓
+Reflection Agents critique and verify
+↓
+Ranking Agents score and compare
+↓
+Meta-review Agent summarizes failure modes
+↓
+Evolution Agent improves top hypotheses
+↓
+PI Agent gives targeted feedback and new instructions
+↓
+Generation Agents regenerate / refine hypotheses

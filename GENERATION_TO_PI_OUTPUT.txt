@@ -1,0 +1,23 @@
+GENERATION_TO_PI_OUTPUT
+
+Cycle ID:
+[Cycle number]
+
+Hypotheses generated:
+[H1, H2, H3...]
+
+For each hypothesis:
+- PI instruction addressed:
+- Core directional mechanism:
+- Direction-level reasoning summary:
+- Evidence level:
+- Novelty:
+- Testability:
+- Weakness:
+- Required downstream check:
+
+Self-filtered rejected ideas:
+[List ideas not output and reasons]
+
+Requests for Tool Use Agent:
+[List specific literature or data checks needed]
