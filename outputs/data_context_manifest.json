@@ -1,0 +1,10 @@
+{
+  "generated": "2026-07-09T14:18:29",
+  "files": {
+    "single_cell_rds": "seurat_merged.rds",
+    "mk_metabolomics": "sFig6A Raw data.xlsx",
+    "ph_control_metabolomics": "Figure6D+F raw data.xlsx",
+    "prior_results": "prior_results.docx"
+  },
+  "context_file": "C:\\Users\\18553\\Desktop\\Phd_S4\\jiawei_framework\\outputs\\data_context.md"
+}

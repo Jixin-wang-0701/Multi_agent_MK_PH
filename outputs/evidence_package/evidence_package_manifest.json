@@ -1,0 +1,41 @@
+{
+  "generated": "2026-07-13T15:28:03",
+  "priority_genes": [
+    "Pdgfb",
+    "Tgfb1",
+    "F3",
+    "Thbs1",
+    "Glo1",
+    "Rab27a",
+    "Tsg101",
+    "Cd44",
+    "Lox",
+    "Loxl1",
+    "Loxl2",
+    "Mki67",
+    "Amd1",
+    "Amd2",
+    "Pnp",
+    "Nt5c2",
+    "Nt5e"
+  ],
+  "priority_metabolites": [
+    "methionine",
+    "inosine",
+    "adenosine",
+    "spermidine",
+    "spermine",
+    "S-adenosylmethionine",
+    "retinoic acid",
+    "methylglyoxal / pyruvaldehyde"
+  ],
+  "evidence_package": "C:\\Users\\18553\\Desktop\\Phd_S4\\jiawei_framework\\outputs\\evidence_package.md",
+  "seurat_gene_expression": "C:\\Users\\18553\\Desktop\\Phd_S4\\jiawei_framework\\outputs\\evidence_package\\priority_gene_seurat_expression.csv",
+  "public_de": "C:\\Users\\18553\\Desktop\\Phd_S4\\jiawei_framework\\outputs\\evidence_package\\priority_gene_public_de.csv",
+  "metabolite_crosscheck": "C:\\Users\\18553\\Desktop\\Phd_S4\\jiawei_framework\\outputs\\evidence_package\\priority_metabolite_crosscheck.csv",
+  "statuses": {
+    "seurat": "completed",
+    "public_de": "completed with identifier-limited matching",
+    "metabolites": "completed"
+  }
+}

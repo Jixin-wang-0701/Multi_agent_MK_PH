@@ -1,0 +1,15 @@
+{
+  "generated": "2026-07-09T14:20:45",
+  "fetch_kegg": true,
+  "fetch_pubmed": true,
+  "max_metabolites": 30,
+  "context_file": "C:\\Users\\18553\\Desktop\\Phd_S4\\jiawei_framework\\outputs\\metabolic_context.md",
+  "supporting_files": {
+    "differential_metabolites": "C:\\Users\\18553\\Desktop\\Phd_S4\\jiawei_framework\\outputs\\metabolic\\differential_metabolites.csv",
+    "selected_metabolites": "C:\\Users\\18553\\Desktop\\Phd_S4\\jiawei_framework\\outputs\\metabolic\\selected_metabolites.csv",
+    "kegg_mappings": "C:\\Users\\18553\\Desktop\\Phd_S4\\jiawei_framework\\outputs\\metabolic\\kegg_mappings.csv",
+    "candidate_enzyme_genes": "C:\\Users\\18553\\Desktop\\Phd_S4\\jiawei_framework\\outputs\\metabolic\\candidate_enzyme_genes.csv",
+    "candidate_gene_expression": "C:\\Users\\18553\\Desktop\\Phd_S4\\jiawei_framework\\outputs\\metabolic\\candidate_gene_expression.csv",
+    "pubmed_mechanism_hits": "C:\\Users\\18553\\Desktop\\Phd_S4\\jiawei_framework\\outputs\\metabolic\\pubmed_mechanism_hits.csv"
+  }
+}

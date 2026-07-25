@@ -1,0 +1,23 @@
+source_file,sheet,metabolite,matched_name,status,control_mean,case_mean,log2fc_case_vs_control,p_value,fdr,note
+sFig6A Raw data.xlsx,Sheet1,methylglyoxal / pyruvaldehyde,Pyruvaldehyde,found,2.535e+05,1.713e+06,2.757,,,"computed from columns: case=PH-mk-1,PH-mk-2,PH-mk-3; control=Control-mk-1,Control-mk-2,Control-mk-3"
+sFig6A Raw data.xlsx,Sheet1,methionine,methionine,found,3.398e+04,3.247e+05,3.256,,,"computed from columns: case=PH-mk-1,PH-mk-2,PH-mk-3; control=Control-mk-1,Control-mk-2,Control-mk-3"
+sFig6A Raw data.xlsx,Sheet1,inosine,inosine,found,1.139e+05,8.971e+04,-0.3441,,,"computed from columns: case=PH-mk-1,PH-mk-2,PH-mk-3; control=Control-mk-1,Control-mk-2,Control-mk-3"
+sFig6A Raw data.xlsx,Sheet1,retinoic acid,Retinoic Acid,found,3.887e+05,4.207e+06,3.436,,,"computed from columns: case=PH-mk-1,PH-mk-2,PH-mk-3; control=Control-mk-1,Control-mk-2,Control-mk-3"
+sFig6A Raw data.xlsx,Sheet1,S-adenosylmethionine,S-Adenosylmethionine,found,5.287e+04,5.722e+04,0.1138,,,"computed from columns: case=PH-mk-1,PH-mk-2,PH-mk-3; control=Control-mk-1,Control-mk-2,Control-mk-3"
+Figure6D+F raw data.xlsx,Raw,methionine,methionine,found,1,0.4929,-1.02,0.0007845,,"computed from columns: case=hs-ko1,hs-ko2,hs-ko3,hs-ko4,hs-ko5; control=hs-wt1,hs-wt2,hs-wt3,hs-wt4,hs-wt5"
+Figure6D+F raw data.xlsx,Raw,S-adenosylmethionine,S-Adenosylmethionine,found,1,0.8847,-0.1767,0.02982,,"computed from columns: case=hs-ko1,hs-ko2,hs-ko3,hs-ko4,hs-ko5; control=hs-wt1,hs-wt2,hs-wt3,hs-wt4,hs-wt5"
+Figure6D+F raw data.xlsx,Raw,inosine,inosine,found,,,,0.2352,,"computed from columns: case=hs-ko1,hs-ko2,hs-ko3,hs-ko4,hs-ko5; control=hs-wt1,hs-wt2,hs-wt3,hs-wt4,hs-wt5"
+Figure6D+F raw data.xlsx,Raw,adenosine,adenosine,found,,,,0.4129,,"computed from columns: case=hs-ko1,hs-ko2,hs-ko3,hs-ko4,hs-ko5; control=hs-wt1,hs-wt2,hs-wt3,hs-wt4,hs-wt5"
+Figure6D+F raw data.xlsx,Raw,methylglyoxal / pyruvaldehyde,Pyruvaldehyde,found,,,,0.8342,,"computed from columns: case=hs-ko1,hs-ko2,hs-ko3,hs-ko4,hs-ko5; control=hs-wt1,hs-wt2,hs-wt3,hs-wt4,hs-wt5"
+Figure6D+F raw data.xlsx,FDR,methionine,methionine,found,1.532e+06,7.551e+05,-1.02,0.004973,0.08785,whole-lung KO/PH-like columns compared with WT/control columns
+Figure6D+F raw data.xlsx,FDR,S-adenosylmethionine,S-Adenosylmethionine,found,2.038e+06,1.803e+06,-0.1767,0.0413,0.2433,whole-lung KO/PH-like columns compared with WT/control columns
+Figure6D+F raw data.xlsx,FDR,methylglyoxal / pyruvaldehyde,Pyruvaldehyde,found,1.133e+07,1.114e+07,-0.0246,0.8342,0.9308,whole-lung KO/PH-like columns compared with WT/control columns
+Figure6D+F raw data.xlsx,FDR,inosine,inosine,found,4.94e+07,5.724e+07,0.2124,0.2462,0.5654,whole-lung KO/PH-like columns compared with WT/control columns
+Figure6D+F raw data.xlsx,FDR,adenosine,adenosine,found,2.786e+05,3.601e+05,0.37,0.4145,0.6657,whole-lung KO/PH-like columns compared with WT/control columns
+Figure6D+F raw data.xlsx,Heatmap,methionine,methionine,found,1.532e+06,7.551e+05,-1.02,0.004973,0.08785,whole-lung KO/PH-like columns compared with WT/control columns
+sFig6A Raw data.xlsx,,adenosine,,not found,,,,,,
+sFig6A Raw data.xlsx,,spermidine,,not found,,,,,,
+sFig6A Raw data.xlsx,,spermine,,not found,,,,,,
+Figure6D+F raw data.xlsx,,spermidine,,not found,,,,,,
+Figure6D+F raw data.xlsx,,spermine,,not found,,,,,,
+Figure6D+F raw data.xlsx,,retinoic acid,,not found,,,,,,

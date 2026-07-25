@@ -1,0 +1,18 @@
+query_gene,matched_identifier,mean_case,mean_control,log2fc_case_vs_control,p_value_approx,fdr_approx,note
+Pdgfb,,,,,,,not found by gene symbol; DE table appears to use Ensembl-like identifiers
+Tgfb1,,,,,,,not found by gene symbol; DE table appears to use Ensembl-like identifiers
+F3,,,,,,,not found by gene symbol; DE table appears to use Ensembl-like identifiers
+Thbs1,,,,,,,not found by gene symbol; DE table appears to use Ensembl-like identifiers
+Glo1,,,,,,,not found by gene symbol; DE table appears to use Ensembl-like identifiers
+Rab27a,,,,,,,not found by gene symbol; DE table appears to use Ensembl-like identifiers
+Tsg101,,,,,,,not found by gene symbol; DE table appears to use Ensembl-like identifiers
+Cd44,,,,,,,not found by gene symbol; DE table appears to use Ensembl-like identifiers
+Lox,,,,,,,not found by gene symbol; DE table appears to use Ensembl-like identifiers
+Loxl1,,,,,,,not found by gene symbol; DE table appears to use Ensembl-like identifiers
+Loxl2,,,,,,,not found by gene symbol; DE table appears to use Ensembl-like identifiers
+Mki67,,,,,,,not found by gene symbol; DE table appears to use Ensembl-like identifiers
+Amd1,,,,,,,not found by gene symbol; DE table appears to use Ensembl-like identifiers
+Amd2,,,,,,,not found by gene symbol; DE table appears to use Ensembl-like identifiers
+Pnp,,,,,,,not found by gene symbol; DE table appears to use Ensembl-like identifiers
+Nt5c2,,,,,,,not found by gene symbol; DE table appears to use Ensembl-like identifiers
+Nt5e,,,,,,,not found by gene symbol; DE table appears to use Ensembl-like identifiers
